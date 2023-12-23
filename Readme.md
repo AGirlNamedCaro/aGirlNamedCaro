@@ -1,5 +1,4 @@
 # Hi, I'm Carolina 👋
-<hr>
 
 **Software Developer | Bookworm | Creative**
 
