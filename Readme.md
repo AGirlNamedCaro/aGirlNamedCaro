@@ -2,7 +2,7 @@
 
 **Software Developer | Bookworm | Creative**
 
-I’m fascinated by how you can be so creative with something that seems so logical, like building software. Working as a software developer has given me a deeper appreciation for established working processes within a company, test-driven development, and being kind and empathetic. Always. 
+I’m fascinated by how you can be so creative with something that seems so logical. Working as a software developer has given me a deeper appreciation for established working processes within a company, test-driven development, and being kind and empathetic. Always. 
 
 ## Some Tools I Have Used and Learned 🚀
 <p align="left">
@@ -26,7 +26,7 @@ I’m fascinated by how you can be so creative with something that seems so logi
 ### Reading List 📚
 - System Design Interview by Alex Xu
 - Practical-Oriented Design by Sandi Metz
-- All the devils are here by Louise Penny
+- All the Devils are Here by Louise Penny
 
 ### Fun Facts 🎉
 - Helped organize and execute Calgary’s Biggest Hackathon
