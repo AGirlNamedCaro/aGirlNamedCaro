@@ -1,4 +1,4 @@
-# Hi, I'm Carolina 👋
+# Hola, I'm Carolina 👋
 
 **Software Developer | Bookworm | Creative**
 
