@@ -31,8 +31,8 @@ I’m fascinated by how coding can be so creative and yet so logical simultaneou
 
 ### Reading List 📚
 - System Design Interview by Alex Xu
-- Practical-Oriented Design by Sandi Metz
-- All the Devils are Here by Louise Penny
+- Domain Driven Design by Eric Evans
+- ~~All the Devils are Here by Louise Penny~~
 
 ### Fun Facts 🎉
 - Helped organize and execute Calgary’s Biggest Hackathon
