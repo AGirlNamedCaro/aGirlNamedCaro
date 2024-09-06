@@ -29,14 +29,10 @@ I’m fascinated by how coding can be so creative and yet so logical simultaneou
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="35" height="45" />
 </p>
 
-### Reading List 📚
-- System Design Interview by Alex Xu
-- Domain Driven Design by Eric Evans
-- ~~All the Devils are Here by Louise Penny~~
 
 ### Fun Facts 🎉
 - Helped organize and execute Calgary’s Biggest Hackathon
 - Participated in my first Game Development hackathon this year and got
   hooked
-- I am also an actor, writer, and I'm working towards producing my first film in
-  2025
+- I am also an actor, writer, and filmmaker
+- Currently training to run my first half marathon in May 2025
