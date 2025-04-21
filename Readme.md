@@ -2,7 +2,11 @@
 
 **Software Developer | Bookworm | Creative**
 
-I’m fascinated by how coding can be so creative and yet so logical simultaneously. Working as a software developer has given me a deeper appreciation for established working processes within a company, test-driven development, and being kind and empathetic. Always. 
+Pivoting and adapting to change has been part of my journey for as long as I can remember. Moving to a completely different country when I was younger (and having to learn a whole new language), graduating with a degree in Finance from the University of Calgary and then almost immediately being captivated by software development and making a decision to pursue it instead. 
+Constant adaptability, perseverance, and enthusiasm for learning has led me on a journey where I’ve tested features using TDD, learned various programming languages, and have been able to connect with, manage, and support many humans as I help them build the web app of their dreams, both as a project manager and a developer. 
+
+Throughout it all,  every time I’m asked what I enjoy about my career, my answer remains the same: I love how creative you can be with something that is so logical.
+
 
 ## Some Tools I Have Used and Learned 🚀
 <p align="left">
