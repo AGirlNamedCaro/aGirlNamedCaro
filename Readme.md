@@ -39,4 +39,4 @@ Throughout it all,  every time I’m asked what I enjoy about my career, my answ
 - Participated in my first Game Development hackathon this year and got
   hooked
 - I am also an actor, writer, and filmmaker
-- Currently training to run my first half marathon in May 2025
+- I ran my first marathon in May 2025 and now i'm contemplating running another one in Honolulu
