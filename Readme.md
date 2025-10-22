@@ -36,7 +36,5 @@ Throughout it all,  every time I’m asked what I enjoy about my career, my answ
 
 ### Fun Facts 🎉
 - Helped organize and execute Calgary’s Biggest Hackathon
-- Participated in my first Game Development hackathon this year and got
-  hooked
 - I am also an actor, writer, and filmmaker
 - I ran my first marathon in May 2025 and now i'm contemplating running another one in Honolulu
