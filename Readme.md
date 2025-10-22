@@ -2,10 +2,15 @@
 
 **Software Developer | Bookworm | Creative**
 
-Pivoting and adapting to change has been part of my journey for as long as I can remember. Moving to a completely different country when I was younger (and having to learn a whole new language), graduating with a degree in Finance from the University of Calgary and then almost immediately being captivated by software development and making a decision to pursue it instead. 
-Constant adaptability, perseverance, and enthusiasm for learning has led me on a journey where I’ve tested features using TDD, learned various programming languages, and have been able to connect with, manage, and support many humans as I help them build the web app of their dreams, both as a project manager and a developer. 
+Backend-focused full-stack engineer with 5 years building production systems that handle real user load. I care about writing maintainable code, designing clean APIs, and shipping features that actually work.
 
-Throughout it all,  every time I’m asked what I enjoy about my career, my answer remains the same: I love how creative you can be with something that is so logical.
+What I bring:
+- Strong backend fundamentals – API design, database optimizations
+- Production debugging skills – I've tracked down race conditions, memory leaks, and scaling bottlenecks
+- TDD mindset and CI/CD experience – code that ships confidently
+- Cross-functional collaboration – I translate between technical constraints and business needs
+
+I'm comfortable owning features end-to-end or jumping into complex legacy systems. Currently exploring Python and Go, but my 5 years in Rails means I can pick up new stacks quickly.
 
 
 ## Some Tools I Have Used and Learned 🚀
